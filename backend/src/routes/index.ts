@@ -1,6 +1,7 @@
 import { Router, Request, Response } from "express";
 import recommendationsRouter from "./recommendations";
-import usersRouter from './users'
+import usersRouter from "./users";
+
 
 const router = Router();
 
